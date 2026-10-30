@@ -1,0 +1,4 @@
+-- Databricks notebook source
+-- MAGIC %py
+-- MAGIC print("Hello World")
+-- MAGIC print("Chaitnaya")
